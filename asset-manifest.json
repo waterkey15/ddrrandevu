@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.61acc61f.css",
+    "main.js": "/static/js/main.b211e64a.js",
+    "static/media/HkFONT_REGULAR.otf": "/static/media/HkFONT_REGULAR.f084ba7441a0d8d759a5.otf",
+    "index.html": "/index.html",
+    "main.61acc61f.css.map": "/static/css/main.61acc61f.css.map",
+    "main.b211e64a.js.map": "/static/js/main.b211e64a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.61acc61f.css",
+    "static/js/main.b211e64a.js"
+  ]
+}
